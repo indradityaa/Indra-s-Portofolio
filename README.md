@@ -96,3 +96,6 @@ An interactive Excel dashboard analyzing coffee shop sales data to understand pr
 * Data-Driven Decision Making
 
 ---
+
+## Sertification
+[Sertificate](https://drive.google.com/drive/folders/1GLp15oRscuP31Y-RLF5tdFShtBiKdhLZ?usp=sharing)
